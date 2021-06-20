@@ -2,7 +2,9 @@
 
 _Created by [David Needham](https://www.davidneedham.me/). This material was last tested on 2021/06/19._
 
-Most new development projects begin on your computer. [Lando](https://lando.dev/) is a tool that makes it fast and for you and your colleagues to spin up customized environments in Docker so that your computer is always ready to go. Configuration is saved and distributed with the code for your project, so everyone's environments are consistent every time.
+[Play Introduction Video](https://www.youtube.com/watch?v=qs0WG2GpRwA)
+
+Most new development projects begin on your computer. If you're comfortable in a terminal window, [Lando](https://lando.dev/) is a tool that makes it fast and for you and your colleagues to spin up customized environments. Configuration is saved and distributed with the code for your project, so each person's environments are consistent with each other.
 
 ## Lesson 1
 
@@ -22,7 +24,9 @@ In this lesson, you'll learn how to use Lando to get Drupal 9 up and running on 
 
     `mkdir drupal9 && cd drupal9`
 
-4. Lando has a helpful multistep interface for initializing a new project. We're going to streamline the process by providing all of the details in a single command: 
+4. Lando has a helpful multistep interface for initializing a new project based of of predefined recipes. We're going to streamline the process by providing all of the details in a single command. 
+
+    Copy this entire block and run it in your terminal:
     
 ```
 lando init \
@@ -42,7 +46,7 @@ This command will download and extract your Drupal codebase and create a `lando.
 
     This step could take a minute while Lando interfaces with Docker to spin up and configure the containers for you.
 
-    > _Fun fact: if you clone a project locally and discover a lando.yml file, you can skip the initialization and simply `lando start`. This generates an identical environment to eveveryone else on the project!_
+    > _Fun fact: if you clone a project locally and discover a lando.yml file, you can skip the initialization and simply `lando start`. This generates an identical environment to everyone else on the project!_
 
 6. Open the website in your browser. If you followed these steps exactly, it should be [https://drupal9.lndo.site/](https://drupal9.lndo.site/).
 
@@ -91,7 +95,7 @@ Have you mastered this lesson? Take a moment to see what you've learned.
 
     d) Vagrant
 
-2. What is the title of the featured recipe on the Recipes page?
+2. Open your new Drupal 9 website. What is the title of the featured recipe on the Recipes page?
     
     a) Vegan chocolate and nut brownies
     
@@ -131,6 +135,6 @@ Now that you have a working Drupal 9 website, you can go any direction you want.
 
 ### Check out other courses in our Using Lando series:
  - Jump into Local WordPress Development with Lando
- - Build for Kubernetes Locally with Lagoon and Lando
- - Get Started with Laravel Locally with Lando
+ - Build for Kubernetes with Lagoon and Lando
+ - Get Started with Laravel Running Locally with Lando
  - Create the perfect MEAN stack for JavaScript with Lando
