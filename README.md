@@ -3,6 +3,8 @@ This is a training plan created for a team lead and four team members to execute
 
 It starts with lesson 1 which went live 30 days prior to the start of 2021-Q3.
 
+In this lesson we learn the bare bones about what Lando is and how to use it to set up some locally running containers that are designed especially for Drupal. Once those are set up, we will install Drupal 9.
+
 ## Scope for Lesson 1:
  - Initialize a new project with Lando.
  - Install Drupal 9 locally
