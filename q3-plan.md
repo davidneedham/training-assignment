@@ -50,7 +50,7 @@ David sets goals with the team. He also begins to improve the course that he mad
 
 ### August
 #### Summary
-As time goes on the plan get fuzzier and needs to be revised. Galadriel (who enjoys data analysis) assists David with observations in data for July and the team meets to revise their plans for the month. Arwin completes the Drupal course and leads Pippin and Galadriel towards completing their topics that are complimentary to his own. Sam continues to provide peer review while recording introductions and supplemental material for completed lessons.
+As time goes on the plan becomes more difficult to predict and will need to be revised. Galadriel (who enjoys data analysis) assists David with observations in data for July and the team meets to revise their plans for the month. Arwin completes the Drupal course and leads Pippin and Galadriel towards completing their topics that are complimentary to his own. Sam continues to provide peer review while recording introductions and supplemental material for completed lessons.
 
 #### Details
 | | Priorities | Stretch goals |
@@ -63,7 +63,7 @@ As time goes on the plan get fuzzier and needs to be revised. Galadriel (who enj
 
 ### September
 #### Summary
-There's a lot of wiggle room in the final month of the quarter to allow for unexpected delays, life events, and changes in priorities. Galadriel and David reviews observations in data for August and the team meets to revise their plans for the month. Arwin completes a lesson (or more) for Lando+WordPress. Pippin and Galadriel complete their projects and assist other team members with QA, going back to revise their publishes lessions with observations from the previous 30 days. Galadriel completes all video assets
+There's a lot of wiggle room in the final month of the quarter to allow for unexpected delays, life events, and changes in priorities across the team. Galadriel and David review observations in data for August and the team meets to revise their plans for the month. Arwin completes a lesson (or more) for Lando+WordPress. Pippin and Galadriel complete their projects and assist other team members with QA, going back to revise their publishes lessions with observations from the previous 30 days. Galadriel completes all video assets
 
 #### Details
 | | Priorities | Stretch goals |
