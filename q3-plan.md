@@ -37,7 +37,7 @@
 
 ### July
 #### Summary
-David sets goals with the team. He also begins to improve the course that he made and creates a new lesson for installing Lando (in response to data). Arwin begins creating lessons 2 and 3 to expand the Drupal topic. Pippin and Sam both begin creating lessons that are different but complimentary to the existing Drupal topic. Galadriel floats to help with copywriting, graphic design, and plan video introductions.
+David sets goals with the team. He also begins to improve the course that he made and creates a new lesson for installing Lando (in response to data). Arwin begins creating lessons 2 and 3 to expand the Drupal topic. Pippin and Galadriel both work with Arwin to create lessons that are different but complimentary to the existing Drupal topic. Sam floats to help with copywriting, graphic design, and starts planning video content.
 
 #### Details
 | | Priorities | Stretch goals |
