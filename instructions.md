@@ -4,9 +4,9 @@ _Created by [David Needham](https://www.davidneedham.me/). This material was las
 
 Most new development projects begin on your computer. [Lando](https://lando.dev/) is a tool that makes it fast and for you and your colleagues to spin up customized environments in Docker so that your computer is always ready to go. Configuration is saved and distributed with the code for your project, so everyone's environments are consistent every time.
 
-In this lesson, you'll learn how to use Lando to get Drupal 9 up and running on your computer in 10-minutes or less.
-
 ## Lesson 1
+
+In this lesson, you'll learn how to use Lando to get Drupal 9 up and running on your computer in 12-minutes or less.
 
 1. Install Lando.
     
@@ -34,7 +34,7 @@ lando init \
 --name drupal9
 ```
 
-This command will download and extract your Drupal codebase and create a `lando.yml` file for saving the configuration for this project. 
+This command will download and extract your Drupal codebase and create a `lando.yml` file for saving the configuration for this project. We don't need this right now, but you'll need it for the next lesson.
 
 > _Note: if you already have code from an existing codebase, you may want to step through the initialization yourself with `lando init`._
 
@@ -42,7 +42,7 @@ This command will download and extract your Drupal codebase and create a `lando.
 
     This step could take a minute while Lando interfaces with Docker to spin up and configure the containers for you.
 
-    > _Fun fact: if you clone a project locally and discover a lando.yml file, you can skip the initialization and simply `lando start`. This gives you an identical environment to your colleagues!_
+    > _Fun fact: if you clone a project locally and discover a lando.yml file, you can skip the initialization and simply `lando start`. This generates an identical environment to eveveryone else on the project!_
 
 6. Open the website in your browser. If you followed these steps exactly, it should be [https://drupal9.lndo.site/](https://drupal9.lndo.site/).
 
@@ -92,6 +92,7 @@ Have you mastered this lesson? Take a moment to see what you've learned.
     d) Vagrant
 
 2. What is the title of the featured recipe on the Recipes page?
+    
     a) Vegan chocolate and nut brownies
     
     b) Gluten Free Pizza
@@ -129,8 +130,7 @@ Now that you have a working Drupal 9 website, you can go any direction you want.
  - How to integrate with third parties such as Pantheon's Terminus CLI or the Datadog Agent.
 
 ### Check out other courses in our Using Lando series:
- - Install WordPress Locally with Lando
- - Install Lagoon Locally with Lando
- - Install Laravel Locally with Lando
+ - Jump into Local WordPress Development with Lando
+ - Build for Kubernetes Locally with Lagoon and Lando
+ - Get Started with Laravel Locally with Lando
  - Create the perfect MEAN stack for JavaScript with Lando
- - 
