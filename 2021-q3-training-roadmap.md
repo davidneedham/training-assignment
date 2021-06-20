@@ -12,9 +12,9 @@
 
  - Inbound analytics suggest interest in several additional topics utilizing Lando including WordPress and Node development.
 
-## Employee Profiles
-| | | |
---- | --- | --- |
+## Team Profiles
+| | |
+--- | --- |
 **David** | Team lead overseeing this project. Wants to make decisions based on data whenever possible. Balances team passions with company priorities. |
 **Arwin** | CMS expert with 12 years experience as a Drupal module developer and 8 years as a WordPress plugin developer. Has dabbled in frontend development. Interest in leadership. |
 **Pippin** | Code bootcamp graduate with experience in Javascript and frontend developement. Understands AngularJS, Node, and modern website application development.|
