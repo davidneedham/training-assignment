@@ -136,5 +136,4 @@ Now that you have a working Drupal 9 website, you can go any direction you want.
 ### Check out other courses in our Using Lando series:
  - Jump into Local WordPress Development with Lando
  - Build for Kubernetes with Lagoon and Lando
- - Get Started with Laravel Running Locally with Lando
  - Create the perfect MEAN stack for JavaScript with Lando

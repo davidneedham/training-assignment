@@ -8,7 +8,7 @@ It starts with lesson 1 which went live 30 days prior to the start of 2021-Q3.
  - Install Drupal 9 locally
  - Tease additional lessons and related courses.
 
-## Outside of scope for Lesson 1 (accounted for in the Q3 plan):
+## Outside of scope for Lesson 1 (accounted for in the Q3 roadmap):
  - There is a link to install Lando and review requirements, however we do not give step-by-step instructions to install Lando.
     - That material already exists on the Lando website.
     - Accounting for every OS and local particularity could easily take too long for the scope of this project.

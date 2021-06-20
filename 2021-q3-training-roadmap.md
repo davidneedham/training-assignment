@@ -70,3 +70,43 @@ There's a lot of wiggle room in the final month of the quarter to allow for unex
 **Pippin** | Assist with any remaining lessons. Provide updates for the lessons they already created. | Solicit feedback from academy classmates. Review other lessons ready for peer review. |
 **Galadriel** | Assist with any remaining lessons. Provide updates for the lessons they already created. | Look for trends and observations in the data. Review other lessons ready for peer review. |
 **Sam** | Finish all video introductions and supplemental course material. | Share feedback from a non-technical perspective. Assist with edits and improvements to previously published lessons. |
+
+## Completed work
+
+Drupal Course
+ - Install Drupal 9 Locally with Lando
+ - Customize Your Lando Environments for Drupal Development
+ - Introduction to Drupal Module Development with Lando
+ - Introduction to Drupal Theme Development with Lando
+
+WordPress Course
+ - Install WordPress Locally with Lando
+ - Customize Your Lando Environments for WordPress Development
+ - Introduction to WordPress Plugin Development with Lando
+ - Introduction to WordPress Theme Development with Lando
+
+Frontend Development lessons:
+ - Adding Frontend Automation Tools in Lando with Node.js
+ - Customize Your Lando Recipe to include Gulp
+ - Customize Your Lando Recipe to include Grunt
+ - Adding Vue.js to Your Lando Environments
+ - Bootstrapping Angular into Your Lando Environments
+
+Custom Integrations lessons:
+ - Integrating Your Lando Environments with Pantheon
+ - Integrating Your Lando Environments with Platform.sh
+ - Integrating Your Lando Environments with Linode
+ - Integrating Your Lando Environments with Digital Ocean
+ - Integrating Your Lando Environments with Datadog
+ - Integrating Your Lando Environments with BackstopJS
+ - Integrating Your Lando Environments with Behat
+ - Adding Custom Build Steps and Unlocking Automation
+
+MEAN Stack Lesson
+ - Create the perfect MEAN stack for JavaScript with Lando
+ - Leveraging Node.JS and MongoDB with Lando
+ - Develop Your First Website Application Locally with Lando
+
+
+Lagoon Lesson
+ - Build for Kubernetes with Lagoon and Lando
