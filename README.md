@@ -7,7 +7,7 @@ In this lesson, we learn the bare bones about what Lando is and how to use it to
 
 ## Scope for Lesson 1:
  - Initialize a new project with Lando.
- - Install Drupal 9 locally
+ - Install Drupal 9 locally.
  - Tease additional lessons and related courses.
 
 ## Outside of scope for Lesson 1 (accounted for in the Q3 roadmap):
