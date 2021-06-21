@@ -4,7 +4,7 @@ _Created by [David Needham](https://www.davidneedham.me/). This material was las
 
 [Play Introduction Video](https://www.youtube.com/watch?v=qs0WG2GpRwA)
 
-Most new development projects begin on your computer. If you're comfortable in a terminal window, [Lando](https://lando.dev/) is a tool that makes it fast and for you and your colleagues to spin up customized environments. Configuration is saved and distributed with the code for your project, so each person's environments are consistent with each other.
+Most new development projects begin on your computer. If you're comfortable in a terminal window, [Lando](https://lando.dev/) is a tool that makes it fast and for you and your colleagues to spin up customized environments. Configuration is saved and distributed with the code for your project, so each person's environments are consistent.
 
 ## Lesson 1
 
@@ -24,7 +24,7 @@ In this lesson, you'll learn how to use Lando to get Drupal 9 up and running on 
 
     `mkdir drupal9 && cd drupal9`
 
-4. Lando has a helpful multistep interface for initializing a new project based of of predefined recipes. We're going to streamline the process by providing all of the details in a single command. 
+4. Lando has a helpful multistep interface for initializing a new project based on predefined recipes. We're going to streamline the process by providing all of the details in a single command. 
 
     Copy this entire block and run it in your terminal:
     

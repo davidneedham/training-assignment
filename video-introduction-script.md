@@ -1,4 +1,4 @@
-Lando is a local development tool that functions as an abstraction layer for Docker. It's extendable and infinitely flexible, making it an excellent choice for just about any local development project.
+Lando is a local development tool that functions as an abstraction layer for Docker. It's extendable and scriptable, making it an excellent choice for just about any local development project.
 
 In this lesson, we will install Lando for the first time and use it to configure the containers we need to run Drupal 9 locally.
 
